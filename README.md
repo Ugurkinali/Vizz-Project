@@ -1,5 +1,5 @@
 # Vizz-Project
-Vızz Project. An announcement app for Çankaya University Industrial Engineering Club.
+Vızz Project. An announcement app for Çankaya University Industrial Engineering Club.\n
 This is the source code of my project. You can see the files in the master branch.
 This app is developed on VS Code using Flutter(dart) on kotlin DSL. 
 It is meant to be used as an easy announcement app for club members.
