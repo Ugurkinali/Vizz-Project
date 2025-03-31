@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "711659000503",
+    "project_id": "vizzapp-8b71e",
+    "storage_bucket": "vizzapp-8b71e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711659000503:android:39d078e0bc54b135063332",
+        "android_client_info": {
+          "package_name": "com.example.vizzapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBect3OdsHOInHRreZKcyzF8PCrI3rK9fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
